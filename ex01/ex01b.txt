@@ -1,0 +1,71 @@
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:1
+Enter data to insert at end:10
+
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:2
+Enter data to insert:20
+Enter position to insert (0-based index):1
+
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:5
+Linked List:10->20->NULL
+
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:3
+Enter element to search:20
+Element found at position:1
+
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:4
+Enter position to delete (0-based index):1
+
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:5
+Linked List:10->NULL
+
+singly Linkred List Opertions Menu:
+1.Insert at End
+2.Insert at Position
+3.Search Element
+4.Delete Element
+5.Display List
+6.Exit
+Enter your choice:6
+
