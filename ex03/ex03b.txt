@@ -1,0 +1,54 @@
+queue operations menu:
+1. enqueue
+2.dequeue
+3.display
+4.exit
+enter your choice:1
+enter element to enqueue:10
+element enqueued:10
+
+ queue operations menu:
+1. enqueue
+2.dequeue
+3.display
+4.exit
+enter your choice:1
+enter element to enqueue:20
+element enqueued:20
+
+ queue operations menu:
+1. enqueue
+2.dequeue
+3.display
+4.exit
+enter your choice:1
+enter element to enqueue:30
+element enqueued:30
+
+ queue operations menu:
+1. enqueue
+2.dequeue
+3.display
+4.exit
+enter your choice:3
+queue elements:102030
+
+ queue operations menu:
+1. enqueue
+2.dequeue
+3.display
+4.exit
+enter your choice:2
+dequeued element:10
+
+ queue operations menu:
+1. enqueue
+2.dequeue
+3.display
+4.exit
+enter your choice:3
+queue elements:2030
+
+ 
+
+

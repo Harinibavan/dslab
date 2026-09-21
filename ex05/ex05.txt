@@ -1,0 +1,66 @@
+~~~BST MENU~~~~
+ 1.create a BST
+ 2.display
+ 3.search
+ 4.exit
+ enter your choice:1
+
+ enter the number of elements:7
+
+ enter the value:12
+
+ enter the value:35
+
+ enter the value:76
+
+ enter the value:13
+
+ enter the value:67
+
+ enter the value:24
+
+ enter the value:64
+
+
+~~~~BST MENU~~~~
+ 1.create a BST
+ 2.display
+ 3.search
+ 4.exit
+ enter your choice:2
+
+ the preorder display:12351324766764
+ the inorder display:12132435646776
+ the postorder display:24136467763512
+
+~~~~BST MENU~~~~
+ 1.create a BST
+ 2.display
+ 3.search
+ 4.exit
+ enter your choice:3
+
+ enter element to be searched:64
+
+ key element is present in BST
+
+~~~~BST MENU~~~~
+ 1.create a BST
+ 2.display
+ 3.search
+ 4.exit
+ enter your choice:3
+
+ enter element to be searched:1
+
+ key element is not found in the BST
+
+~~~~BST MENU~~~~
+ 1.create a BST
+ 2.display
+ 3.search
+ 4.exit
+ enter your choice:4
+
+
+

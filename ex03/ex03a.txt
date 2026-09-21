@@ -1,0 +1,47 @@
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:10
+element pushed:10
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:20
+element pushed:20
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:3
+Stack elements:2010
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:2
+
+ Popped element:20
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:3
+Stack elements:10
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:4
+
+
+

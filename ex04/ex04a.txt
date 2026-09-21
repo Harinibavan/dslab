@@ -1,0 +1,60 @@
+Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:10
+element pushed:10
+
+ Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:20
+element pushed:20
+
+ Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:30
+element pushed:30
+
+ Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:3
+stack elements:30->20->10->NULL
+
+ Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:2
+popped element:30
+
+ Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:3
+stack elements:20->10->NULL
+
+ Stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:4
+(jupyter-env) ds-lab@ds-lab-System-Product-Name:~/dslab421125106024/ex03$ 
+
+

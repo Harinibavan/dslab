@@ -1,0 +1,54 @@
+singly linked list operations menu:
+1.insert at end
+2.insert at position
+3.search elements
+4. delete elements
+5.display list
+6.exit
+enter your choice:1
+enter data to insert at end:10
+
+ singly linked list operations menu:
+1.insert at end
+2.insert at position
+3.search elements
+4. delete elements
+5.display list
+6.exit
+enter your choice:2
+enter data to insert:20
+enter position to insert (0-based index):1
+
+ singly linked list operations menu:
+1.insert at end
+2.insert at position
+3.search elements
+4. delete elements
+5.display list
+6.exit
+enter your choice:5
+linked list:10->20->NULL
+
+ singly linked list operations menu:
+1.insert at end
+2.insert at position
+3.search elements
+4. delete elements
+5.display list
+6.exit
+enter your choice:3
+enter element to search:20
+element found at position:1
+
+ 
+ singly linked list operations menu:
+1.insert at end
+2.insert at position
+3.search elements
+4. delete elements
+5.display list
+6.exit
+enter your choice:4
+enter position to delete(0-based index):1
+linked list:10->10->NULL
+

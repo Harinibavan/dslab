@@ -1,0 +1,5 @@
+PreOrder traversal of the constructed AVL tree is
+910-15261011
+ 
+ Preorder traversal after deletion of 10 
+10-1952611
